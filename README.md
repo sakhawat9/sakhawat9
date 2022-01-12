@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m [Sakhawat Hossain](https://drive.google.com/file/d/1BzpVoR3OadSYNQVzQEF8bMCx-N44GBnI/view).
-### I'm a 😍😍 JavaScript Lover 😍😍!
+### I am a MERN Stack Developer from Bangladesh
+###🔭 Working on multiple MERN projects
+
 ### 👀 I’m interested in programming and web development.
 ### 🌱 I’m currently learning everything
 
