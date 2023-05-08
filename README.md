@@ -20,6 +20,6 @@
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
 </a>
 <a href="https://github.com/sakhawat9/convoychat">
-  <img height="173px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat9&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat9&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 </div>
