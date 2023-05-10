@@ -27,6 +27,6 @@
   <img width="55%" lign="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
 </a>
 <a href="https://github.com/sakhawat9/convoychat">
-  <img width="40%" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawat9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdhrshohel" />
+  <img width="40%" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawat9&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="mdhrshohel" />
 </a>
 </div>
