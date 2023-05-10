@@ -23,10 +23,10 @@
 </p>
 
 <div style="display: flex">
-<a width="49%" href="https://github.com/sakhawat9/github-readme-stats">
-  <img width="49%" lign="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
+<a href="https://github.com/sakhawat9/github-readme-stats">
+  <img width="55%" lign="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
 </a>
-<a width="49%" href="https://github.com/sakhawat9/convoychat">
-  <img width="49%" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawat9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdhrshohel" />
+<a href="https://github.com/sakhawat9/convoychat">
+  <img width="44%" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawat9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdhrshohel" />
 </a>
 </div>
