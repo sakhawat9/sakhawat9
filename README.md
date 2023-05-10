@@ -24,9 +24,9 @@
 
 <div style="display: flex">
 <a width="50%" href="https://github.com/sakhawat9/github-readme-stats">
-  <img width="50%" lign="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
+  <img width="49%" lign="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
 </a>
-<a width="50%" href="https://github.com/sakhawat9/convoychat">
+<a width="49%" href="https://github.com/sakhawat9/convoychat">
   <img width="50%" height="215px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawat9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdhrshohel" />
 </a>
 </div>
