@@ -16,7 +16,13 @@
 <br />
 <br />
 
-| [![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar) |
+<p align="center">
+<a href="https://github.com/sakhawat9/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sakhawat Hossain streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakhawat9&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+
+</p>
+
+| [![Sakhawat Hossain Github stats](https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/sakhawat9) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawat9&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/sakhawat9) |
 
 <div>
 <a href="https://github.com/sakhawat9/github-readme-stats">
