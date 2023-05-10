@@ -15,6 +15,9 @@
 [![stack-overflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/15192019/sakhawat-hossain)
 <br />
 <br />
+
+| [![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar) |
+
 <div>
 <a href="https://github.com/sakhawat9/github-readme-stats">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=sakhawat9&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
